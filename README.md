@@ -3,6 +3,7 @@
 CSS assignment using external css,properties,selectors.
 
 Properties
+
 1.color
 
 2.font style.
@@ -16,6 +17,7 @@ Properties
 6.font weight.
 
 Selectors
+
 1.element.
 
 2.group.
