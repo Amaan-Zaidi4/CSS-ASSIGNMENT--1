@@ -1,0 +1,31 @@
+ul,
+p,
+h6,
+b{
+color:brown;
+}
+.amaan{
+    font-style: italic;
+    text-decoration: underline;
+}
+.amaan2{
+    text-decoration: line-through;
+}
+.amaan3,
+.amaan4,
+.amaan5{
+    background-color: yellow;
+}
+#amaan6{
+    letter-spacing: 5px;
+}
+p{
+    font-style: italic;
+}
+.amaan4{
+    font-weight: bold;
+}
+.amaan7{
+    text-decoration: none;
+    color: brown;
+}
